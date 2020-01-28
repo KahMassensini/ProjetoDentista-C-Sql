@@ -1,0 +1,12 @@
+c:\users\aluno\documents\visual studio 2015\Projects\projetodentista\projetodentista\bin\Debug\projetodentista.exe.config
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\projetodentista\projetodentista\obj\Debug\projetodentista.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\projetodentista\projetodentista\obj\Debug\projetodentista.FrmDentista.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\projetodentista\projetodentista\obj\Debug\projetodentista.Properties.Resources.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\projetodentista\projetodentista\obj\Debug\projetodentista.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\projetodentista\projetodentista\bin\Debug\projetodentista.exe
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\projetodentista\projetodentista\bin\Debug\projetodentista.pdb
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\projetodentista\projetodentista\obj\Debug\projetodentista.exe
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\projetodentista\projetodentista\obj\Debug\projetodentista.pdb
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\projetodentista\projetodentista\obj\Debug\projetodentista.FrmConsulta.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\projetodentista\projetodentista\obj\Debug\projetodentista.FrmPaciente.resources
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\projetodentista\projetodentista\obj\Debug\projetodentista.MenuDentibao.resources
